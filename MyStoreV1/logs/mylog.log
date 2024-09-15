@@ -1,0 +1,287 @@
+[INFO ] 2024-08-14 20:40:28.989 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-08-14 20:46:49.953 [main] MyStoreV1 - Test case started
+[INFO ] 2024-08-14 20:46:49.993 [main] MyStoreV1 - Index Page
+[INFO ] 2024-08-14 20:46:51.354 [main] MyStoreV1 - Click sign
+[INFO ] 2024-08-14 20:46:51.359 [main] MyStoreV1 - My Account Page
+[INFO ] 2024-08-14 20:46:51.517 [main] MyStoreV1 - Enter email
+[INFO ] 2024-08-14 20:46:51.611 [main] MyStoreV1 - Click of crate account
+[INFO ] 2024-08-14 20:46:51.613 [main] MyStoreV1 - account deatils page
+[INFO ] 2024-08-14 20:46:52.713 [main] MyStoreV1 - Click on Mr
+[INFO ] 2024-08-14 20:46:52.827 [main] MyStoreV1 - Write first namet
+[INFO ] 2024-08-14 20:46:52.965 [main] MyStoreV1 - Write last name
+[INFO ] 2024-08-14 20:46:53.088 [main] MyStoreV1 - Write passowrd
+[INFO ] 2024-08-14 20:46:59.792 [main] MyStoreV1 - Click on register
+[INFO ] 2024-08-14 20:46:59.797 [main] MyStoreV1 - My account sign out page
+[INFO ] 2024-08-14 20:46:59.891 [main] MyStoreV1 - get user name
+[INFO ] 2024-08-14 20:47:01.156 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-08-14 20:49:07.479 [main] MyStoreV1 - index page
+[INFO ] 2024-08-14 20:49:08.946 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-14 20:49:08.949 [main] MyStoreV1 - my account page
+[INFO ] 2024-08-14 20:49:09.115 [main] MyStoreV1 - email
+[INFO ] 2024-08-14 20:49:09.246 [main] MyStoreV1 - pass
+[INFO ] 2024-08-14 20:49:15.467 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-14 20:49:15.475 [main] MyStoreV1 - register page
+[INFO ] 2024-08-14 20:49:15.554 [main] MyStoreV1 - user name
+[INFO ] 2024-08-14 20:49:15.554 [main] MyStoreV1 - verify user name equal or not
+[INFO ] 2024-08-14 20:49:17.146 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-08-14 20:53:26.603 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-08-15 09:16:08.360 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-08-15 09:31:35.442 [main] MyStoreV1 - index page
+[INFO ] 2024-08-15 09:31:36.565 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 09:31:36.569 [main] MyStoreV1 - my account page
+[INFO ] 2024-08-15 09:31:36.723 [main] MyStoreV1 - email
+[INFO ] 2024-08-15 09:31:36.843 [main] MyStoreV1 - pass
+[INFO ] 2024-08-15 09:31:38.006 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 09:31:38.010 [main] MyStoreV1 - register page
+[INFO ] 2024-08-15 09:37:29.603 [main] MyStoreV1 - index page
+[INFO ] 2024-08-15 09:37:30.763 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 09:37:30.767 [main] MyStoreV1 - my account page
+[INFO ] 2024-08-15 09:37:30.913 [main] MyStoreV1 - email
+[INFO ] 2024-08-15 09:37:31.049 [main] MyStoreV1 - pass
+[INFO ] 2024-08-15 09:37:32.199 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 09:37:32.202 [main] MyStoreV1 - register page
+[INFO ] 2024-08-15 09:41:57.089 [main] MyStoreV1 - index page
+[INFO ] 2024-08-15 09:41:58.255 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 09:41:58.258 [main] MyStoreV1 - my account page
+[INFO ] 2024-08-15 09:41:58.410 [main] MyStoreV1 - email
+[INFO ] 2024-08-15 09:41:58.542 [main] MyStoreV1 - pass
+[INFO ] 2024-08-15 09:41:59.810 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 09:41:59.813 [main] MyStoreV1 - register page
+[INFO ] 2024-08-15 09:43:51.965 [main] MyStoreV1 - index page
+[INFO ] 2024-08-15 09:43:53.072 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 09:43:53.076 [main] MyStoreV1 - my account page
+[INFO ] 2024-08-15 09:43:53.248 [main] MyStoreV1 - email
+[INFO ] 2024-08-15 09:43:53.377 [main] MyStoreV1 - pass
+[INFO ] 2024-08-15 09:43:54.429 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 09:43:54.432 [main] MyStoreV1 - register page
+[INFO ] 2024-08-15 09:44:34.477 [main] MyStoreV1 - index page
+[INFO ] 2024-08-15 09:44:35.590 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 09:44:35.594 [main] MyStoreV1 - my account page
+[INFO ] 2024-08-15 09:44:35.754 [main] MyStoreV1 - email
+[INFO ] 2024-08-15 09:44:35.877 [main] MyStoreV1 - pass
+[INFO ] 2024-08-15 09:44:36.930 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 09:44:36.935 [main] MyStoreV1 - register page
+[INFO ] 2024-08-15 09:49:16.425 [main] MyStoreV1 - Test case started
+[INFO ] 2024-08-15 09:49:16.458 [main] MyStoreV1 - Index Page
+[INFO ] 2024-08-15 09:49:17.915 [main] MyStoreV1 - Click sign
+[INFO ] 2024-08-15 09:49:17.921 [main] MyStoreV1 - My Account Page
+[INFO ] 2024-08-15 09:49:18.088 [main] MyStoreV1 - Enter email
+[INFO ] 2024-08-15 09:49:18.181 [main] MyStoreV1 - Click of crate account
+[INFO ] 2024-08-15 09:49:18.184 [main] MyStoreV1 - account deatils page
+[INFO ] 2024-08-15 09:49:19.296 [main] MyStoreV1 - Click on Mr
+[INFO ] 2024-08-15 09:49:19.426 [main] MyStoreV1 - Write first namet
+[INFO ] 2024-08-15 09:49:19.550 [main] MyStoreV1 - Write last name
+[INFO ] 2024-08-15 09:49:19.673 [main] MyStoreV1 - Write passowrd
+[INFO ] 2024-08-15 09:49:26.249 [main] MyStoreV1 - Click on register
+[INFO ] 2024-08-15 09:49:26.254 [main] MyStoreV1 - My account sign out page
+[INFO ] 2024-08-15 09:49:26.316 [main] MyStoreV1 - get user name
+[INFO ] 2024-08-15 09:49:27.780 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-08-15 09:49:36.147 [main] MyStoreV1 - index page
+[INFO ] 2024-08-15 09:49:37.335 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 09:49:37.336 [main] MyStoreV1 - my account page
+[INFO ] 2024-08-15 09:49:37.485 [main] MyStoreV1 - email
+[INFO ] 2024-08-15 09:49:37.650 [main] MyStoreV1 - pass
+[INFO ] 2024-08-15 09:49:43.915 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 09:49:43.916 [main] MyStoreV1 - register page
+[INFO ] 2024-08-15 09:49:44.004 [main] MyStoreV1 - user name
+[INFO ] 2024-08-15 09:49:44.005 [main] MyStoreV1 - verify user name equal or not
+[INFO ] 2024-08-15 09:49:45.519 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-08-15 09:50:32.841 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-08-15 09:50:50.677 [main] MyStoreV1 - index page
+[INFO ] 2024-08-15 09:50:51.887 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 09:50:51.888 [main] MyStoreV1 - my account page
+[INFO ] 2024-08-15 09:50:52.078 [main] MyStoreV1 - email
+[INFO ] 2024-08-15 09:50:52.233 [main] MyStoreV1 - pass
+[INFO ] 2024-08-15 09:50:53.377 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 09:50:53.379 [main] MyStoreV1 - register page
+[INFO ] 2024-08-15 20:33:57.277 [main] MyStoreV1 - index page
+[INFO ] 2024-08-15 20:33:58.610 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 20:33:58.629 [main] MyStoreV1 - my account page
+[INFO ] 2024-08-15 20:33:58.781 [main] MyStoreV1 - email
+[INFO ] 2024-08-15 20:33:58.918 [main] MyStoreV1 - pass
+[INFO ] 2024-08-15 20:34:00.127 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-15 20:34:00.138 [main] MyStoreV1 - register page
+[INFO ] 2024-08-17 09:12:51.716 [main] MyStoreV1 - Test case started
+[INFO ] 2024-08-17 09:12:51.761 [main] MyStoreV1 - Index Page
+[INFO ] 2024-08-17 09:12:52.959 [main] MyStoreV1 - Click sign
+[INFO ] 2024-08-17 09:12:52.965 [main] MyStoreV1 - My Account Page
+[INFO ] 2024-08-17 09:12:53.131 [main] MyStoreV1 - Enter email
+[INFO ] 2024-08-17 09:12:53.227 [main] MyStoreV1 - Click of crate account
+[INFO ] 2024-08-17 09:12:53.231 [main] MyStoreV1 - account deatils page
+[INFO ] 2024-08-17 09:12:54.315 [main] MyStoreV1 - Click on Mr
+[INFO ] 2024-08-17 09:12:54.441 [main] MyStoreV1 - Write first namet
+[INFO ] 2024-08-17 09:12:54.560 [main] MyStoreV1 - Write last name
+[INFO ] 2024-08-17 09:12:54.679 [main] MyStoreV1 - Write passowrd
+[INFO ] 2024-08-17 09:13:01.645 [main] MyStoreV1 - Click on register
+[INFO ] 2024-08-17 09:13:01.653 [main] MyStoreV1 - My account sign out page
+[INFO ] 2024-08-17 09:13:01.722 [main] MyStoreV1 - get user name
+[INFO ] 2024-08-17 09:13:03.169 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-08-17 09:13:10.587 [main] MyStoreV1 - index page
+[INFO ] 2024-08-17 09:13:12.084 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-17 09:13:12.086 [main] MyStoreV1 - my account page
+[INFO ] 2024-08-17 09:13:12.258 [main] MyStoreV1 - email
+[INFO ] 2024-08-17 09:13:12.412 [main] MyStoreV1 - pass
+[INFO ] 2024-08-17 09:13:18.633 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-17 09:13:18.634 [main] MyStoreV1 - register page
+[INFO ] 2024-08-17 09:13:18.742 [main] MyStoreV1 - user name
+[INFO ] 2024-08-17 09:13:18.742 [main] MyStoreV1 - verify user name equal or not
+[INFO ] 2024-08-17 09:13:19.986 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-08-17 09:14:04.415 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-08-17 09:14:16.175 [main] MyStoreV1 - index page
+[INFO ] 2024-08-17 09:14:17.383 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-17 09:14:17.384 [main] MyStoreV1 - my account page
+[INFO ] 2024-08-17 09:14:17.542 [main] MyStoreV1 - email
+[INFO ] 2024-08-17 09:14:17.675 [main] MyStoreV1 - pass
+[INFO ] 2024-08-17 09:14:18.770 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-08-17 09:14:18.771 [main] MyStoreV1 - register page
+[INFO ] 2024-09-02 03:17:55.398 [main] MyStoreV1 - Test case started
+[INFO ] 2024-09-02 03:17:55.428 [main] MyStoreV1 - Index Page
+[INFO ] 2024-09-02 03:17:56.943 [main] MyStoreV1 - Click sign
+[INFO ] 2024-09-02 03:17:56.946 [main] MyStoreV1 - My Account Page
+[INFO ] 2024-09-02 03:17:57.121 [main] MyStoreV1 - Enter email
+[INFO ] 2024-09-02 03:17:57.229 [main] MyStoreV1 - Click of crate account
+[INFO ] 2024-09-02 03:17:57.231 [main] MyStoreV1 - account deatils page
+[INFO ] 2024-09-02 03:17:58.427 [main] MyStoreV1 - Click on Mr
+[INFO ] 2024-09-02 03:17:58.548 [main] MyStoreV1 - Write first namet
+[INFO ] 2024-09-02 03:17:58.689 [main] MyStoreV1 - Write last name
+[INFO ] 2024-09-02 03:17:58.806 [main] MyStoreV1 - Write passowrd
+[INFO ] 2024-09-02 03:18:06.614 [main] MyStoreV1 - Click on register
+[INFO ] 2024-09-02 03:18:06.621 [main] MyStoreV1 - My account sign out page
+[INFO ] 2024-09-02 03:18:06.713 [main] MyStoreV1 - get user name
+[INFO ] 2024-09-02 03:18:08.559 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-09-02 03:18:16.490 [main] MyStoreV1 - index page
+[INFO ] 2024-09-02 03:18:17.704 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-09-02 03:18:17.706 [main] MyStoreV1 - my account page
+[INFO ] 2024-09-02 03:18:17.860 [main] MyStoreV1 - email
+[INFO ] 2024-09-02 03:18:17.982 [main] MyStoreV1 - pass
+[INFO ] 2024-09-02 03:18:24.457 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-09-02 03:18:24.463 [main] MyStoreV1 - register page
+[INFO ] 2024-09-02 03:18:24.549 [main] MyStoreV1 - user name
+[INFO ] 2024-09-02 03:18:24.549 [main] MyStoreV1 - verify user name equal or not
+[INFO ] 2024-09-02 03:18:26.000 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-09-02 03:19:18.332 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-09-02 03:19:36.445 [main] MyStoreV1 - index page
+[INFO ] 2024-09-02 03:19:38.665 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-09-02 03:19:38.666 [main] MyStoreV1 - my account page
+[INFO ] 2024-09-02 03:19:38.837 [main] MyStoreV1 - email
+[INFO ] 2024-09-02 03:19:38.965 [main] MyStoreV1 - pass
+[INFO ] 2024-09-02 03:19:42.757 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-09-02 03:19:42.759 [main] MyStoreV1 - register page
+[INFO ] 2024-09-02 03:21:46.383 [main] MyStoreV1 - index page open
+[INFO ] 2024-09-02 03:21:47.688 [main] MyStoreV1 - Sign in click
+[INFO ] 2024-09-02 03:21:47.695 [main] MyStoreV1 - My account page open
+[INFO ] 2024-09-02 03:21:47.857 [main] MyStoreV1 - Enter email
+[INFO ] 2024-09-02 03:21:47.982 [main] MyStoreV1 - Enter password
+[INFO ] 2024-09-02 03:21:49.305 [main] MyStoreV1 - Click on sign
+[INFO ] 2024-09-02 03:21:49.310 [main] MyStoreV1 - Register page
+[INFO ] 2024-09-02 03:21:49.391 [main] MyStoreV1 - getting username
+[INFO ] 2024-09-02 03:21:49.391 [main] MyStoreV1 - check expected and actual
+[INFO ] 2024-09-02 03:21:51.083 [main] MyStoreV1 - sign out
+[INFO ] 2024-09-02 03:21:51.120 [main] MyStoreV1 - index page open
+[INFO ] 2024-09-02 03:21:52.154 [main] MyStoreV1 - Sign in click
+[INFO ] 2024-09-02 03:21:52.174 [main] MyStoreV1 - My account page open
+[INFO ] 2024-09-02 03:21:52.323 [main] MyStoreV1 - Enter email
+[INFO ] 2024-09-02 03:21:52.491 [main] MyStoreV1 - Enter password
+[INFO ] 2024-09-02 03:21:53.732 [main] MyStoreV1 - Click on sign
+[INFO ] 2024-09-02 03:21:53.735 [main] MyStoreV1 - Register page
+[INFO ] 2024-09-02 03:21:53.799 [main] MyStoreV1 - getting username
+[INFO ] 2024-09-02 03:21:53.801 [main] MyStoreV1 - failed
+[INFO ] 2024-09-02 03:21:53.987 [main] MyStoreV1 - screenshot capture
+[INFO ] 2024-09-02 03:22:02.256 [main] MyStoreV1 - Test case started
+[INFO ] 2024-09-02 03:22:02.256 [main] MyStoreV1 - Index Page
+[INFO ] 2024-09-02 03:22:04.268 [main] MyStoreV1 - Click sign
+[INFO ] 2024-09-02 03:22:04.269 [main] MyStoreV1 - My Account Page
+[INFO ] 2024-09-02 03:22:04.435 [main] MyStoreV1 - Enter email
+[INFO ] 2024-09-02 03:22:04.536 [main] MyStoreV1 - Click of crate account
+[INFO ] 2024-09-02 03:22:04.539 [main] MyStoreV1 - account deatils page
+[INFO ] 2024-09-02 03:22:05.806 [main] MyStoreV1 - Click on Mr
+[INFO ] 2024-09-02 03:22:05.934 [main] MyStoreV1 - Write first namet
+[INFO ] 2024-09-02 03:22:06.066 [main] MyStoreV1 - Write last name
+[INFO ] 2024-09-02 03:22:06.194 [main] MyStoreV1 - Write passowrd
+[INFO ] 2024-09-02 03:22:13.153 [main] MyStoreV1 - Click on register
+[INFO ] 2024-09-02 03:22:13.154 [main] MyStoreV1 - My account sign out page
+[INFO ] 2024-09-02 03:22:13.219 [main] MyStoreV1 - get user name
+[INFO ] 2024-09-02 03:22:14.808 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-09-02 03:22:19.847 [main] MyStoreV1 - index page
+[INFO ] 2024-09-02 03:23:14.824 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-09-02 03:23:34.140 [main] MyStoreV1 - index page
+[INFO ] 2024-09-02 03:23:35.443 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-09-02 03:23:35.444 [main] MyStoreV1 - my account page
+[INFO ] 2024-09-02 03:23:35.592 [main] MyStoreV1 - email
+[INFO ] 2024-09-02 03:23:35.733 [main] MyStoreV1 - pass
+[INFO ] 2024-09-02 03:23:38.436 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-09-02 03:23:38.438 [main] MyStoreV1 - register page
+[INFO ] 2024-09-02 04:12:14.684 [main] MyStoreV1 - Browser Launch
+[INFO ] 2024-09-02 04:12:14.711 [main] MyStoreV1 - Index page Open
+[INFO ] 2024-09-02 04:35:32.788 [main] MyStoreV1 - Browser Launch
+[INFO ] 2024-09-02 04:35:32.864 [main] MyStoreV1 - Index page Open
+[INFO ] 2024-09-02 04:36:22.160 [main] MyStoreV1 - Browser Launch
+[INFO ] 2024-09-02 04:36:22.209 [main] MyStoreV1 - Index page Open
+[INFO ] 2024-09-02 04:36:23.901 [main] MyStoreV1 - Click on Sign in link
+[INFO ] 2024-09-02 04:36:23.904 [main] MyStoreV1 - MyAccount Page Open
+[INFO ] 2024-09-02 04:36:24.070 [main] MyStoreV1 - Enter Email Address
+[INFO ] 2024-09-02 04:36:24.198 [main] MyStoreV1 - Emter password
+[INFO ] 2024-09-02 04:36:25.912 [main] MyStoreV1 - Click on Sign in link
+[INFO ] 2024-09-02 04:36:25.916 [main] MyStoreV1 - Register page open
+[INFO ] 2024-09-02 04:36:26.033 [main] MyStoreV1 - Enter T-shirt in search box
+[INFO ] 2024-09-02 04:36:28.416 [main] MyStoreV1 - Click on search Button
+[INFO ] 2024-09-02 04:36:28.418 [main] MyStoreV1 - Search result page open
+[INFO ] 2024-09-02 04:36:28.468 [main] MyStoreV1 - Getting name
+[INFO ] 2024-09-02 04:36:58.885 [main] MyStoreV1 - Launch Browser
+[INFO ] 2024-09-02 04:36:58.920 [main] MyStoreV1 - Index page Open
+[INFO ] 2024-09-02 04:37:00.906 [main] MyStoreV1 - Click sign link 
+[INFO ] 2024-09-02 04:37:00.913 [main] MyStoreV1 - My Account Page
+[INFO ] 2024-09-02 04:37:01.112 [main] MyStoreV1 - Enter email for create account
+[INFO ] 2024-09-02 04:37:01.232 [main] MyStoreV1 - Click of create account
+[INFO ] 2024-09-02 04:37:01.235 [main] MyStoreV1 - account deatils page
+[INFO ] 2024-09-02 04:37:02.757 [main] MyStoreV1 - Click on Mr
+[INFO ] 2024-09-02 04:37:02.921 [main] MyStoreV1 - Write first namet
+[INFO ] 2024-09-02 04:37:03.073 [main] MyStoreV1 - Write last name
+[INFO ] 2024-09-02 04:37:03.252 [main] MyStoreV1 - Write passowrd
+[INFO ] 2024-09-02 04:37:11.226 [main] MyStoreV1 - Click on register
+[INFO ] 2024-09-02 04:37:11.230 [main] MyStoreV1 - My account sign out page
+[INFO ] 2024-09-02 04:37:11.316 [main] MyStoreV1 - get user name
+[INFO ] 2024-09-02 04:37:13.104 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-09-02 04:37:42.394 [main] MyStoreV1 - Browser is Launch
+[INFO ] 2024-09-02 04:37:42.427 [main] MyStoreV1 - index page open
+[INFO ] 2024-09-02 04:37:43.885 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-09-02 04:37:43.889 [main] MyStoreV1 - my account page Opne 
+[INFO ] 2024-09-02 04:37:44.054 [main] MyStoreV1 -  Enter email
+[INFO ] 2024-09-02 04:37:44.187 [main] MyStoreV1 -  Enter password
+[INFO ] 2024-09-02 04:37:45.423 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-09-02 04:37:45.433 [main] MyStoreV1 - register page Opne
+[INFO ] 2024-09-02 04:37:45.488 [main] MyStoreV1 - user name we are Getting
+[INFO ] 2024-09-02 04:37:45.488 [main] MyStoreV1 - verify user name equal or not
+[INFO ] 2024-09-02 04:37:47.199 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-09-02 04:39:47.043 [main] MyStoreV1 - Browser Launch
+[INFO ] 2024-09-02 04:39:47.070 [main] MyStoreV1 - Index page open
+[INFO ] 2024-09-02 04:39:49.862 [main] MyStoreV1 - Click On sign in Link
+[INFO ] 2024-09-02 04:39:49.866 [main] MyStoreV1 - Account page open
+[INFO ] 2024-09-02 04:39:50.024 [main] MyStoreV1 - Enter email address
+[INFO ] 2024-09-02 04:39:50.151 [main] MyStoreV1 - Enter pwd
+[INFO ] 2024-09-02 04:39:52.211 [main] MyStoreV1 - Click on Sign in link
+[INFO ] 2024-09-02 04:39:52.216 [main] MyStoreV1 - Register page open
+[INFO ] 2024-09-02 04:40:23.172 [main] MyStoreV1 - Click on sign out
+[INFO ] 2024-09-02 04:40:57.623 [main] MyStoreV1 - index page
+[INFO ] 2024-09-02 04:41:17.457 [main] MyStoreV1 - index page
+[INFO ] 2024-09-02 04:41:19.414 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-09-02 04:41:19.418 [main] MyStoreV1 - my account page
+[INFO ] 2024-09-02 04:41:19.578 [main] MyStoreV1 - email
+[INFO ] 2024-09-02 04:41:19.703 [main] MyStoreV1 - pass
+[INFO ] 2024-09-02 04:41:21.875 [main] MyStoreV1 - Click on sign in
+[INFO ] 2024-09-02 04:41:21.881 [main] MyStoreV1 - register page
+[INFO ] 2024-09-02 04:42:32.412 [main] MyStoreV1 - Test case started
+[INFO ] 2024-09-02 04:42:32.442 [main] MyStoreV1 - Index Page
+[INFO ] 2024-09-02 04:42:34.060 [main] MyStoreV1 - Click sign
+[INFO ] 2024-09-02 04:42:34.062 [main] MyStoreV1 - My Account Page
+[INFO ] 2024-09-02 04:42:34.219 [main] MyStoreV1 - Enter email
+[INFO ] 2024-09-02 04:42:34.324 [main] MyStoreV1 - Click of crate account
+[INFO ] 2024-09-02 04:42:34.326 [main] MyStoreV1 - account deatils page
+[INFO ] 2024-09-02 04:42:35.573 [main] MyStoreV1 - Click on Mr
+[INFO ] 2024-09-02 04:42:35.686 [main] MyStoreV1 - Write first namet
+[INFO ] 2024-09-02 04:42:35.820 [main] MyStoreV1 - Write last name
+[INFO ] 2024-09-02 04:42:35.942 [main] MyStoreV1 - Write passowrd
+[INFO ] 2024-09-02 04:42:43.168 [main] MyStoreV1 - Click on register
+[INFO ] 2024-09-02 04:42:43.174 [main] MyStoreV1 - My account sign out page
+[INFO ] 2024-09-02 04:42:43.237 [main] MyStoreV1 - get user name
+[INFO ] 2024-09-02 04:42:44.510 [main] MyStoreV1 - Click on sign out

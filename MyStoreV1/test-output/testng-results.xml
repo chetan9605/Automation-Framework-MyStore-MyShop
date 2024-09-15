@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-02T04:42:18 PDT" name="Default suite" finished-at="2024-09-02T04:42:44 PDT" duration-ms="25835">
+    <groups>
+    </groups>
+    <test started-at="2024-09-02T04:42:18 PDT" name="Default test" finished-at="2024-09-02T04:42:44 PDT" duration-ms="25835">
+      <class name="com.mystore.testcases.TC_MyAccounPageTestDDT">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_MyAccounPageTestDDT@3e08ff24]" started-at="2024-09-02T04:42:19 PDT" name="setup" finished-at="2024-09-02T04:42:32 PDT" duration-ms="13341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegistrationAndLogin()[pri:0, instance:com.mystore.testcases.TC_MyAccounPageTestDDT@3e08ff24]" started-at="2024-09-02T04:42:32 PDT" name="verifyRegistrationAndLogin" finished-at="2024-09-02T04:42:44 PDT" duration-ms="12112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrationAndLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mystore.testcases.TC_MyAccounPageTestDDT@3e08ff24]" started-at="2024-09-02T04:42:44 PDT" name="teardown" finished-at="2024-09-02T04:42:44 PDT" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mystore.testcases.TC_MyAccounPageTestDDT -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
